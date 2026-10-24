@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-319
-description: "Create XXD Panel 319 raster artwork: a faithful photograph paired with one poetic symbolic mark, with at most a tiny second note of label, number or handwriting. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-319 or asks for this 诗性记号 style."
+description: "XXD Panel 319｜Poetic Mark: keeps the photo and leaves one small poetic symbol of its subject on warm white paper — only an outline, a proportion, a gesture or one feature, simplified even into a circle, square or irregular hand-drawn shape, with a slight shift of meaning in a quietly surreal way. A tiny second layer such as a small tag, a number, one handwritten word, a micro note or a simple geometric element acts as a metaphor, not an explanation. Coloured pencil, wax-pastel grain and analog paper with uneven, gentle hand-drawn lines; warm white plus one main and one support colour such as warm orange, grey blue or sage; extreme whitespace. Text language and wording are not fixed in advance. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-319 or asks for a poetic minimal mark, quiet surreal symbol or visual-metaphor logo from a photo."
 ---
 
 # XXD Panel 319

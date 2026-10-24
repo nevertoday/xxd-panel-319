@@ -1,158 +1,272 @@
-<div align="center">
+<div align="center" dir="rtl">
 
-# XXD Panel 319｜诗性记号
+# XXD Panel 319｜علامة شعرية
 
-الصورة في الأعلى. في الأسفل علامة شعرية ومعها على الأكثر ملاحظة ثانية صغيرة.
+**يحتفظ بصورتك ويترك على ورق أبيض رمزاً شعرياً صغيراً واحداً مع معنى ثانٍ خفيف.**
 
-<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <strong>العربية</strong>
 
 </div>
 
-> مدخل النص الأصلي (باللغات الخمس): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
-
-## نماذج 16:9 يسار–يمين
-
-عشرون صورة عمودية أخرى، مختلفة عن مجموعة الأعلى–الأسفل. كل منها لوحة 16:9 يمين–يسار مكتملة. الصورة في النصف الأيسر والتصميم في النصف الأيمن، مناصفة دقيقة 50:50. يُولَّد النص من الصورة الحالية وتدور اللغة بين الصينية والإنجليزية واليابانية والكورية والعربية.
+<div dir="rtl">
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 319 sample 21"></td>
-    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 319 sample 22"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 319 sample 23"></td>
-    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 319 sample 24"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 319 sample 25"></td>
-    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 319 sample 26"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 319 sample 27"></td>
-    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 319 sample 28"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 319 sample 29"></td>
-    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 319 sample 30"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 319 sample 31"></td>
-    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 319 sample 32"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 319 sample 33"></td>
-    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 319 sample 34"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 319 sample 35"></td>
-    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 319 sample 36"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 319 sample 37"></td>
-    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 319 sample 38"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 319 sample 39"></td>
-    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 319 sample 40"></td>
+    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 319"></td>
   </tr>
 </table>
 
-## نماذج 3:4 أعلى–أسفل
+<p align="center"><sub>في الأعلى الصورة الأصلية، وفي الأسفل الصورة نفسها بهذا الأسلوب.</sub></p>
 
-عشرون صورة مستقلة، كل منها لوحة 3:4 مكتملة. تبقى الصورة في النصف العلوي ويملأ تصميم هذا اللوح النصف السفلي، مناصفة دقيقة 50:50. يُولَّد النص من الصورة الحالية، وتدور اللغة بين الصينية والإنجليزية واليابانية والكورية والعربية.
+## ما هذا
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 319 sample 01"></td>
-    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 319 sample 02"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-03.png" alt="XXD Panel 319 sample 03"></td>
-    <td width="50%"><img src="./assets/examples/sample-04.png" alt="XXD Panel 319 sample 04"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 319 sample 05"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 319 sample 06"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 319 sample 07"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 319 sample 08"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 319 sample 09"></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 319 sample 10"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 319 sample 11"></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 319 sample 12"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 319 sample 13"></td>
-    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 319 sample 14"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 319 sample 15"></td>
-    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 319 sample 16"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 319 sample 17"></td>
-    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 319 sample 18"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 319 sample 19"></td>
-    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 319 sample 20"></td>
-  </tr>
-</table>
+مهارة (Skill) لوكلاء الذكاء الاصطناعي مثل Claude Code وCodex. أعطها صورة فترسم عملاً نهائياً بصيغة PNG وفق الموجّه الأصلي للوحة 319.
 
-## الحالات المناسبة والمشكلات التي يحلها
+- **كيف تبدو النتيجة:** تبقى الصورة كما هي، ولا يحتفظ التصميم إلا بخط خارجي أو نسبة أو حركة واحدة أو سمة واحدة، وقد يبسّطها إلى دائرة أو مربع أو شكل يدوي غير منتظم، فيبقى الأصل معروفاً مع متّسع للخيال، وأحياناً مع انزياح سريالي هادئ. يمكن أن يرافقه في أقصى حد طبقة ثانية صغيرة واحدة: بطاقة صغيرة أو رقم أو كلمة بخط اليد أو ملاحظة دقيقة أو شكل هندسي بسيط، تعمل استعارةً لا شرحاً. يُرسم بالقلم الرصاص وأقلام الشمع على ورق أبيض دافئ ذي ملمس، بخطوط رقيقة وتلوين غير متساوٍ. الألوان خلفية بيضاء دافئة مع لون رئيسي ولون مساند، مثل البرتقالي الدافئ أو الأزرق الرمادي أو أخضر المريمية أو الأصفر الكريمي أو الوردي الناعم أو البني الفاتح. الفراغ حوله شاسع، ومضمون النص ولغته يتبعان الصورة ولا يُحدَّدان مسبقاً.
+- **كلمات مفتاحية:** رمز شعري · سريالية هادئة · سرد ثانٍ · رصاص وشمع · فراغ شديد
+- **ما يمكنك صنعه:** مقارنة علوية سفلية (الصورة فوق والتصميم تحت)، أو مقارنة يمين ويسار، أو التصميم وحده، أو مجموعة خلفيات للهاتف والجهاز اللوحي والحاسوب والساعة. يمكنك اختيار أكثر من نوع وبأي نسبة أو أبعاد.
+- **ما ليس هو:** ليس فلتراً ولا قالباً: كل صورة تُرسم من جديد من صورتك، وكل صورة مهمة مستقلة.
 
-لتحويل صورة إلى علامة خاصة على ورق أبيض. الأعلى هو الصورة. الأسفل محيط أو نسبة أو إيماءة واحدة، بسيطة حتى تقارب التجريد.
+## ابدأ في ثلاث خطوات
 
-بطاقة أو رقم أو كلمة مكتوبة باليد، صغيرة جدًا، يجوز أن تقف بعيدًا. هي استعارة لا شرح. قلم وباستيل وورق. أبيض دافئ ولون رئيسي ومساند. تجنّب المشهد الكامل وكومة الملاحظات والهندسة الكاملة واللوحة الصاخبة.
-
-## نصائح الاستخدام
-
-- **ابدأ بصورة واحدة واضحة:** اختر صورة يسهل تمييز موضوعها وحركتها وعلاقاتها، ثم حدّد طريقة الإخراج ونسبته.
-- **اجمع المعاملات في جملة واحدة:** قل «علوي-سفلي / يسار-يمين / تصميم فقط + 16:9 / 3:4 / خلفية هاتف»، ويمكنك إضافة مقاس الكمبيوتر أو الجهاز اللوحي أو الساعة الذكية.
-- **حدّد ما يجب الحفاظ عليه:** اذكر الأشخاص والأشياء والحركات والعلاقات والنص المطلوب إبقاؤه، واترك مساحة كافية للأسلوب كي يصمم التخطيط.
-- **اختر طريقة النص:** دع النموذج يولّد النص من الصورة، أو ثبّت الصياغة حرفياً عبر `--text exact --copy`، أو ألغِ النص تماماً عبر `--text none`.
-- **وضّح منطقتي الواقع والتصميم:** في العلوي-السفلي أو اليسار-يمين، اذكر أي منطقة تحتفظ بالصورة وأيها يعاد تصميمها؛ وفي التصميم فقط والخلفيات اذكر أن اللوحة كلها يعاد تصميمها.
-- **اختبر صورة واحدة قبل المعالجة الدفعية:** أكّد النمط والنسبة والنص واللغة على صورة واحدة، ثم استخدم الإعدادات نفسها لمجلد كامل؛ غيّر متغيراً واحداً في كل جولة.
-
-## البدء
-
-التثبيت من GitHub:
+**1. التثبيت.** يعمل مع Claude Code وCodex وغيرهما من الوكلاء الداعمين للمهارات:
 
 ```bash
-npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-319 --skill xxd-panel-319
+npx skills add https://github.com/nevertoday/xxd-panel-319 --skill xxd-panel-319
 ```
 
-بعد التثبيت أعد تشغيل جلسة Agent ثم استدعِ `$xxd-panel-319`. ويمكن إضافة `--global --agent codex --yes` للتثبيت على مستوى المستخدم.
+ثم أعد تشغيل جلسة الوكيل. يمكنك أيضاً تنفيذ `git clone` لهذا المستودع وربط المجلد بـ `~/.claude/skills/xxd-panel-319` أو `~/.codex/skills/xxd-panel-319`.
+
+**2. تأكد أن وكيلك يستطيع توليد الصور.** لا تحتوي هذه المهارة على نموذج صور خاص بها، بل تستخدم قدرة وكيلك على توليد الصور، ويُفضَّل GPT Image 2.
+
+- يعمل Codex مباشرة عندما يكون توليد الصور المدمج مفعّلاً.
+- أما Claude Code والوكلاء الذين لا يملكون توليد صور مدمجاً فيحتاجون إلى واجهة صور متوافقة مع OpenAI، ويستغرق الإعداد نحو خمس دقائق: راجع [إعداد توليد الصور](#إعداد-توليد-الصور).
+
+لست متأكداً؟ جرّب مباشرة. إذا تعذّر التوليد فستتوقف المهارة وتخبرك قبل أن تبدأ أي عمل.
+
+**3. أرسل صورة وقل جملة واحدة:**
+
+> استخدم xxd-panel-319 لتحويل هذه الصورة إلى ملصق علوي سفلي بنسبة 3:4 مع عنوان بالعربية.
+
+إذا كان طلبك كاملاً فسيبدأ فوراً، وما تركته (التخطيط أو النسبة أو النص) سيسألك عنه في سؤال أو سؤالين عادةً. تُحفظ النتائج بصيغة PNG في مجلد جديد داخل `~/Desktop/xxd/xxd-panel-319/`.
+
+## الصور الأنسب
+
+**تناسبه**
+
+- صور للحظة هادئة واحدة: طائر على سلك، نصف كوب ماء على طاولة، كرسي على شاطئ البحر
+- مشاهد تثير إحساساً يصعب تسميته: محطة خالية، أوراق على درجة سلّم، مطر على نافذة
+- صور تريدها غلافاً لديوان شعر أو بطاقة معرض صغيرة أو رقماً لمقتنيات خاصة أو صورة شخصية بسيطة
+
+**لا تناسبه كثيراً**
+
+- صور يجب أن تشرح مكاناً أو حدثاً بوضوح: تغطية الفعاليات، صور المعالم السياحية، الصور الإخبارية
+- الرغبة في وضع معلومات كثيرة أو ملاحظات أو عناصر متعددة
+- الرغبة في ألوان صاخبة مزدحمة أو هندسة مثالية أو أيقونات تقنية أو مظهر كرتوني
+
+## نماذج
+
+كل صورة أدناه نتيجة نهائية صنعتها هذه المهارة من صورة واحدة. استُخدمت صور مختلفة للمقارنات العلوية السفلية والجانبية.
+
+### علوي سفلي: الصورة فوق والتصميم تحت
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-03.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-04.png" alt="XXD Panel 319"></td>
+  </tr>
+</table>
+
+<details>
+<summary>عرض 16 أخرى</summary>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 319"></td>
+  </tr>
+</table>
+
+</details>
+
+### يمين ويسار: الصورة يساراً والتصميم يميناً
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 319"></td>
+  </tr>
+</table>
+
+<details>
+<summary>عرض 16 أخرى</summary>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 319"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 319"></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 319"></td>
+  </tr>
+</table>
+
+</details>
+
+## قلها ببساطة
+
+لا حاجة إلى حفظ المعاملات. قل ما تريد:
+
+| تريد | قل |
+|---|---|
+| مقارنة علوية سفلية | اجعلها مقارنة علوية سفلية بنسبة 3:4 |
+| مقارنة يمين ويسار | اجعلها مقارنة جانبية 16:9 والصورة على اليسار |
+| التصميم فقط | التصميم فقط بلا صورة، عمودي 9:16 |
+| مجموعة خلفيات | خلفيات متناسقة للهاتف والجهاز اللوحي والحاسوب والساعة |
+| عدة نسب | اصنع هذه الصورة بنسب 1:1 و3:4 و16:9 |
+| نصك أنت | العنوان «دع الريح تمر» كما هو حرفياً |
+| بلا نص | بدون أي نص |
+| لغة النص | اكتب النص باليابانية |
+| مجلد كامل | حوّل كل صور هذا المجلد إلى مقارنات علوية سفلية |
+| مثل المرة السابقة | استخدم إعداداتي السابقة |
+
+تفضّل سطر الأوامر؟ المعاملات تقابل ما سبق واحداً بواحد:
 
 ```text
-/xxd-panel-319 photo.jpg --mode top-bottom --size 3:4 --text prompt --locale ar-SA
-/xxd-panel-319 photo.jpg --mode left-right --size 16:9 --text prompt --locale en-US
-/xxd-panel-319 photo.jpg --mode design-only --size 9:16 --text none --prefs off
+/xxd-panel-319 photo.jpg --mode top-bottom --size 3:4 --text prompt --locale ar
+/xxd-panel-319 photo.jpg --mode design-only --size 9:16 --text none
+/xxd-panel-319 ./photos --mode left-right --size 16:9 --text prompt --locale en-US
 ```
 
-راجع [SKILL.md](SKILL.md) لعقد التشغيل الكامل، ومهايئ التشغيل [بالإنجليزية](references/xxd-panel-319-prompt.en.md) أو [بالصينية](references/xxd-panel-319-prompt.zh-CN.md).
+كل المعاملات في قسم [المعاملات](#المعاملات).
+
+## أسئلة شائعة
+
+**هل يجب أن تظهر الصورة الأصلية؟** لا. اطلب «التصميم فقط» أو مجموعة خلفيات فتصبح اللوحة كلها تصميماً.
+
+**من يكتب النص؟** افتراضياً يكتبه نموذج الصور انطلاقاً من صورتك، وأنت تختار اللغة فقط. إن أعطيته كلماتك استُخدمت حرفياً، ويمكنك طلب عدم وجود نص. أي معلومة تبدو واقعية (أماكن، تواريخ، أرقام) تأتي منك أو مما يظهر في الصورة فقط، ولا تُختلق.
+
+**ماذا لو لم تعجبني النتيجة؟** قل «واحدة أخرى». يعيد الرسم من الصورة الأصلية بدلاً من تعديل النتيجة السابقة، لذا تختلف كل محاولة.
+
+**هل تختلط الصور في الدفعة الواحدة؟** لا. تُولَّد كل صورة وحدها ولا تستعير ألوان صورة أخرى أو نصها أو تكوينها. وتُسأل عن الإعدادات مرة واحدة للدفعة كلها.
+
+**إلى أين تذهب صوري؟** إلى نموذج الصور الذي يستخدمه وكيلك فقط. لا ترفع المهارة شيئاً إلى أي مكان آخر ولا تعرض العناوين أو المفاتيح.
+
+**ما علاقة هذا بلوحات Panel الأخرى؟** لوحات XXD Panel عائلة من الأساليب، لكل رقم أسلوب مستقل، فثبّت ما يعجبك فقط. لتدع الذكاء الاصطناعي يقترح أسلوباً لصورة أو تقارن عدة أساليب، استخدم الفهرس [xxd-panel-all](https://github.com/nevertoday/xxd-panel-all).
 
 ## الموجّه الأصلي
 
-يُحفظ [النص الصيني الكامل](references/original-prompt/zh-CN.md) حرفياً بوصفه المرجع الوحيد للإبداع والجماليات أثناء التشغيل. تتضمن هذه الدفعة إرشادات استخدام بخمس لغات، دون أربع ترجمات إضافية للنص الطويل. ملخصات الأسلوب للاكتشاف فقط ولا تحل محل الأصل.
+يحدّد هذا الأسلوبَ بالكامل [الموجّهُ الأصلي](references/original-prompt/zh-CN.md) الذي كتبه شياوشياودونغ (بالصينية). تضيف المهارة في آخره فقط إعدادات التخطيط والحجم والنص التي تختارها، ولا تلخّصه أو تترجمه أو تعيد كتابته.
 
-## فحص الملاءمة السريع
+ترجمات للقراءة (للاطلاع فقط ولا تُرسل إلى نموذج الصور): [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
 
-احفظ هوية الأصل مع إعادة إخراج التكوين، واجمع ملمس الخامة والفراغ المقصود. اختر نصاً حرفياً أو مولداً أو بلا نص، مع معالجة صورة واحدة أو مجلد متداخل والأنماط الأربعة أدناه.
+## إعداد توليد الصور
 
-## أنماط الإخراج الأربعة
+تحتاج إلى واجهة متوافقة مع OpenAI تقدّم `gpt-image-2` (أو نموذجاً متوافقاً) ومفتاح API لها. الخطوات التالية تنشئ إعداداً منفصلاً ولا تمس إعدادات Codex:
 
-- `top-bottom`: منطقتان أفقيتان كاملتا العرض فقط؛ الواقع في الأعلى والتصميم في الأسفل، 50% لكل منهما.
-- `left-right`: منطقتان عموديتان كاملتا الارتفاع فقط؛ الواقع يساراً والتصميم يميناً، 50% لكل منهما، ولا يتحول إلى تخطيط علوي/سفلي.
-- `design-only`: تعرض اللوحة الكاملة ترجمة Panel 319 التصميمية فقط، وتبقى الصورة مرجعاً غير ظاهر.
-- `wallpaper-pack`: ينشئ عملاً كاملاً للهاتف وiPad وسطح المكتب والساعة، إما كعائلة `linked` أو أربعة أعمال `independent`.
+```bash
+mkdir -p ~/.xxd-imagegen
+cat > ~/.xxd-imagegen/config.toml <<'EOF'
+model_provider = "image"
 
-يمكن جمع الأنماط والأحجام. تشمل النسب `1:1` و`3:4` و`4:3` و`4:5` و`5:4` و`2:3` و`3:2` و`9:16` و`16:9` و`21:9` و`5:7` و`7:5` والبكسلات الدقيقة. يمكن أن يكون النص مولداً أو حرفياً من المستخدم أو غائباً. عند إدخال مجلد، تُعالج كل صورة بمعزل عن الأخرى مع إعدادات تسليم مشتركة، وتوضع ملفات PNG النهائية مباشرة في مجلد مهمة جديد واحد.
+[model_providers.image]
+base_url = "https://api.openai.com/v1"   # or your compatible endpoint
+env_key = "XXD_IMAGE_API_KEY"
+EOF
+
+# add to ~/.zshrc or ~/.bashrc so your agent can read them
+echo 'export XXD_IMAGEGEN_CODEX_DIR=~/.xxd-imagegen' >> ~/.zshrc
+echo 'export XXD_IMAGE_API_KEY=your-key' >> ~/.zshrc
+```
+
+أعد فتح الطرفية والوكيل، ثم تحقّق مرة واحدة من مجلد هذه المهارة:
+
+```bash
+python3 scripts/configured_imagegen.py probe
+```
+
+إذا ظهر `"ok":true` فقد نجح الإعداد. يعرض الفحص الجاهزية فقط ولا يطبع العنوان أو المفتاح. إذا كان Codex يولّد الصور أصلاً عبر واجهة متوافقة فلا حاجة إلى هذه الخطوة.
+
+## المعاملات
+
+| المعامل | القيم |
+|---|---|
+| `--mode` | `top-bottom` علوي سفلي · `left-right` يمين ويسار · `design-only` التصميم فقط · `wallpaper-pack` خلفيات لأربعة أجهزة؛ يمكن الجمع |
+| `--size` | `auto` موصى به · `source` مثل الصورة · `1:1` `3:4` `4:3` `4:5` `5:4` `2:3` `3:2` `9:16` `16:9` `21:9` `5:7` `7:5` · أبعاد دقيقة مثل `2160x3840`؛ يمكن الجمع |
+| `--text` | `prompt` يُكتب من الصورة · `exact` كلماتك (مع `--copy "…"`) · `none` بلا نص |
+| `--locale` | لغة النص، مثل `zh-CN` `en-US` `ja-JP` `ko-KR` `ar` |
+| `--wallpaper` | `linked` مجموعة متناسقة · `independent` أربعة تصاميم مستقلة |
+| `--wallpaper-size` | أبعاد كل جهاز، مثل `phone=1440x3200,desktop=3840x2160` |
+| `--out` | مجلد إخراج آخر (الافتراضي `~/Desktop/xxd/xxd-panel-319/`) |
+| `--prefs` | `last` كالسابق · `edit` تعديل السابق · `new` اختيار جديد · `off` لا تحفظ هذه المرة · `clear` امسح السجل |
+
+- إذا اكتملت القيم فلا أسئلة، وإلا تُسأل عن الناقص فقط. مرّر مجلداً بدلاً من `photo.jpg` للمعالجة الدفعية.
+- تُولَّد التركيبات واحدة واحدة: نمطان × ثلاثة أحجام = 6 صور، كل منها مركّبة للوحتها لا مقصوصة.
+- المقارنات 50:50 بدقة. عادةً يرسم النموذج نصف التصميم فقط ويضع برنامج الصورة الأصلية كما هي بجانبه، فيكون الفاصل في المنتصف ولا تتغير الصورة.
+- أسماء الملفات بهذا الشكل `source-001-street-top-bottom-3x4-1152x1536.png`، وكلها في مجلد مهمة واحد.
+- يُحفظ التخطيط والحجم وطريقة النص واللغة فقط، ولا تُحفظ الصور أو النصوص أو المفاتيح.
 
 <!-- xxd-readme-ads:start -->
 ## عن XXD
@@ -207,3 +321,5 @@ XXD هو اختصار اسم علامة Xiaoxiaodong. أنشأ هذا المشر
 - لا تمنح الاتفاقية سوى ترخيص حقوق النشر والترخيص المحدود لبراءات الاختراع المنصوص عليهما صراحةً. ولا تمنح علامات تجارية أو أسماء علامات أو حقوقاً أخرى غير مذكورة، ولا يجوز لك منح ترخيصك من الباطن للآخرين.
 - إذا تلقيت إشعاراً كتابياً بمخالفة، فعليك العودة إلى الامتثال واتخاذ خطوات عملية لمعالجة المخالفة خلال 32 يوماً، وإلا تنتهي التراخيص فوراً. كما يؤدي الادعاء الكتابي بانتهاك براءة اختراع إلى إنهاء ترخيص البراءة.
 - تُقدَّم المواد «كما هي» ومن دون أي ضمان بالقدر الذي يسمح به القانون. ويتحمل المستخدم مخاطر الاستخدام وخسائره المحتملة.
+
+</div>

@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 319｜Poetic Mark: keeps the photo and leaves one small poetic symbol of its subject on warm white paper — only an outline, a proportion, a gesture or one feature, simplified even into a circle, square or irregular hand-drawn shape, with a slight shift of meaning in a quietly surreal way. A tiny second layer such as a small tag, a number, one handwritten word, a micro note or a simple geometric element acts as a metaphor, not an explanation. Coloured pencil, wax-pastel grain and analog paper with uneven, gentle hand-drawn lines; warm white plus one main and one support colour such as warm orange, grey blue or sage; extreme whitespace. Text language and wording are not fixed in advance. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-319 or asks for a poetic minimal mark, quiet surreal symbol or visual-metaphor logo from a photo.",
+  "short_description": "诗性记号：把照片收成白纸上一个极简诗意小符号，旁边只配一个隐喻式小标签或编号",
+  "zh-CN": {
+    "name": "诗性记号",
+    "tagline": "保留原照片，在白纸上留下一个诗意的小符号，外加一点轻轻的第二层意思。",
+    "look": "照片保持原样，设计部分只留轮廓、比例、一个动作或一个特征，可以简化到一个圆、一个方块或一笔不规则的手绘形，认得出来源又留有想象，有时带一点安静的超现实错位。旁边最多加一个很小的第二层：一张小标签、一个编号、一个手写短词、一行微型注释或一个简单几何形，它是隐喻，不是说明。用铅笔和蜡笔画在有纸纹的暖白纸上，线条温柔、覆盖不匀。颜色只有暖白底加一个主色、一个辅助色，如暖橙、灰蓝、鼠尾草绿、奶油黄、柔粉、浅棕。四周是极大的空白；文字的内容和语种按照片决定，不预设。",
+    "traits": [
+      "诗性符号",
+      "安静超现实",
+      "第二叙事",
+      "铅笔蜡笔",
+      "极端留白"
+    ],
+    "good": [
+      "有一个安静瞬间的照片：一只停在电线上的鸟、桌上半杯水、海边的一把椅子",
+      "让人有感觉却说不清的画面：空荡的车站、落在台阶上的叶子、窗上的雨",
+      "想做成诗集封面、展览小卡、私人收藏编号或极简头像的照片"
+    ],
+    "poor": [
+      "需要清楚说明地点或事件的照片：活动现场、旅游打卡、新闻照片",
+      "想把很多信息、注释或多个主体都放进去的需求",
+      "想要鲜艳热闹的配色、完美几何、科技图标或卡通效果"
+    ]
+  },
+  "en": {
+    "name": "Poetic Mark",
+    "tagline": "Keeps your photo and leaves one small poetic symbol on white paper, with a faint second meaning.",
+    "look": "The photo stays as it is. The design keeps only an outline, a proportion, one gesture or one feature, sometimes simplified to a circle, a square or a single irregular hand-drawn shape, so the source is recognisable but leaves room to imagine, sometimes with a quiet surreal shift. At most one tiny second layer sits nearby: a small tag, a number, one handwritten word, a micro note or a simple geometric shape, working as a metaphor rather than an explanation. It is drawn in pencil and wax pastel on textured warm white paper, with gentle, unevenly filled lines. The palette is warm white plus one main and one support colour, such as warm orange, grey blue, sage green, cream yellow, soft pink or light brown. The space around it is vast; the wording and language of any text follow the photo and are not fixed in advance.",
+    "traits": [
+      "Poetic symbol",
+      "Quiet surrealism",
+      "Second narrative",
+      "Pencil and crayon",
+      "Extreme whitespace"
+    ],
+    "good": [
+      "Photos of one quiet moment: a bird on a wire, half a glass of water on a table, a chair by the sea",
+      "Scenes that stir a feeling you cannot quite name: an empty station, leaves on a step, rain on a window",
+      "Photos you want as a poetry-book cover, a small exhibition card, a private collection number or a minimal avatar"
+    ],
+    "poor": [
+      "Photos that must clearly explain a place or event: event coverage, tourist landmark shots, news photos",
+      "Requests to fit lots of information, notes or several subjects",
+      "Wanting loud, busy colour, perfect geometry, tech icons or a cartoon look"
+    ]
+  },
+  "ja": {
+    "name": "詩的な記号",
+    "tagline": "写真はそのままに、白い紙に詩的な小さな記号をひとつ残し、かすかな二つ目の意味を添えます。",
+    "look": "写真はそのまま残し、デザイン側は輪郭、比率、ひとつの動作、ひとつの特徴だけを残します。ときには円や四角、不規則な手描きの形ひとつにまで簡略化し、元がわかりつつ想像の余地を残し、静かな超現実のずれが入ることもあります。そばには小さな二つ目の層をひとつまで置けます。小さなタグ、番号、手書きの一語、ごく短い注記、簡単な幾何学の形などで、説明ではなく比喩として働きます。紙の質感のある温かな白い紙に鉛筆とクレヨンで描き、線は穏やかで塗りにむらがあります。色は温かな白の地に、暖かいオレンジ、灰青、セージグリーン、クリームイエロー、淡いピンク、薄い茶などからメインとサブを一色ずつ。周りは非常に広い余白で、文字の内容と言語は写真に合わせて決まり、あらかじめ固定しません。",
+    "traits": [
+      "詩的な記号",
+      "静かな超現実",
+      "二つ目の物語",
+      "鉛筆とクレヨン",
+      "極端な余白"
+    ],
+    "good": [
+      "静かなひとときの写真：電線にとまる鳥、テーブルの半分のコップの水、海辺の椅子",
+      "言葉にしにくい気持ちを呼ぶ場面：がらんとした駅、階段に落ちた葉、窓の雨",
+      "詩集の表紙、展示の小さなカード、私的なコレクション番号、ミニマルなアイコンにしたい写真"
+    ],
+    "poor": [
+      "場所や出来事をはっきり説明したい写真：イベントの記録、観光名所の記念写真、報道写真",
+      "多くの情報や注記、複数の主役を入れたい場合",
+      "派手でにぎやかな配色、完璧な幾何学、テック系アイコン、キャラクター風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "시적인 기호",
+    "tagline": "원래 사진은 그대로 두고, 흰 종이 위에 시적인 작은 기호 하나와 희미한 두 번째 의미를 남깁니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 윤곽, 비율, 동작 하나, 특징 하나만 남깁니다. 때로는 원이나 사각형, 불규칙한 손그림 형태 하나로까지 단순해져 출처는 알아볼 수 있되 상상할 여지를 남기고, 조용한 초현실적 어긋남이 들어가기도 합니다. 곁에는 작은 두 번째 층을 하나까지 둘 수 있습니다. 작은 태그, 번호, 손글씨 한 단어, 아주 짧은 주석, 단순한 기하 도형 같은 것으로, 설명이 아니라 은유로 작동합니다. 종이 결이 있는 따뜻한 흰 종이에 연필과 크레용으로 그리며, 선은 온화하고 채색은 고르지 않습니다. 색은 따뜻한 흰 바탕에 따뜻한 주황, 회청색, 세이지 그린, 크림 옐로, 연분홍, 연갈색 가운데 주색과 보조색 하나씩입니다. 둘레는 아주 넓게 비우고, 글자의 내용과 언어는 사진에 맞춰 정해지며 미리 고정하지 않습니다.",
+    "traits": [
+      "시적 기호",
+      "조용한 초현실",
+      "두 번째 이야기",
+      "연필과 크레용",
+      "극단적 여백"
+    ],
+    "good": [
+      "조용한 한순간의 사진: 전깃줄에 앉은 새, 탁자 위 반쯤 남은 물컵, 바닷가 의자",
+      "말로 하기 어려운 감정을 부르는 장면: 텅 빈 역, 계단에 떨어진 잎, 창에 맺힌 비",
+      "시집 표지, 전시용 작은 카드, 개인 소장 번호, 미니멀 프로필로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "장소나 사건을 분명히 설명해야 하는 사진: 행사 기록, 관광 명소 인증샷, 보도 사진",
+      "많은 정보나 주석, 여러 주인공을 넣고 싶은 경우",
+      "화려하고 시끄러운 배색, 완벽한 기하, 테크 아이콘, 캐릭터풍을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "علامة شعرية",
+    "tagline": "يحتفظ بصورتك ويترك على ورق أبيض رمزاً شعرياً صغيراً واحداً مع معنى ثانٍ خفيف.",
+    "look": "تبقى الصورة كما هي، ولا يحتفظ التصميم إلا بخط خارجي أو نسبة أو حركة واحدة أو سمة واحدة، وقد يبسّطها إلى دائرة أو مربع أو شكل يدوي غير منتظم، فيبقى الأصل معروفاً مع متّسع للخيال، وأحياناً مع انزياح سريالي هادئ. يمكن أن يرافقه في أقصى حد طبقة ثانية صغيرة واحدة: بطاقة صغيرة أو رقم أو كلمة بخط اليد أو ملاحظة دقيقة أو شكل هندسي بسيط، تعمل استعارةً لا شرحاً. يُرسم بالقلم الرصاص وأقلام الشمع على ورق أبيض دافئ ذي ملمس، بخطوط رقيقة وتلوين غير متساوٍ. الألوان خلفية بيضاء دافئة مع لون رئيسي ولون مساند، مثل البرتقالي الدافئ أو الأزرق الرمادي أو أخضر المريمية أو الأصفر الكريمي أو الوردي الناعم أو البني الفاتح. الفراغ حوله شاسع، ومضمون النص ولغته يتبعان الصورة ولا يُحدَّدان مسبقاً.",
+    "traits": [
+      "رمز شعري",
+      "سريالية هادئة",
+      "سرد ثانٍ",
+      "رصاص وشمع",
+      "فراغ شديد"
+    ],
+    "good": [
+      "صور للحظة هادئة واحدة: طائر على سلك، نصف كوب ماء على طاولة، كرسي على شاطئ البحر",
+      "مشاهد تثير إحساساً يصعب تسميته: محطة خالية، أوراق على درجة سلّم، مطر على نافذة",
+      "صور تريدها غلافاً لديوان شعر أو بطاقة معرض صغيرة أو رقماً لمقتنيات خاصة أو صورة شخصية بسيطة"
+    ],
+    "poor": [
+      "صور يجب أن تشرح مكاناً أو حدثاً بوضوح: تغطية الفعاليات، صور المعالم السياحية، الصور الإخبارية",
+      "الرغبة في وضع معلومات كثيرة أو ملاحظات أو عناصر متعددة",
+      "الرغبة في ألوان صاخبة مزدحمة أو هندسة مثالية أو أيقونات تقنية أو مظهر كرتوني"
+    ]
+  }
+}
